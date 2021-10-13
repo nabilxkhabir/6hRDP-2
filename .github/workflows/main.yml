@@ -28,7 +28,7 @@ jobs:
 
         Invoke-WebRequest https://www.educlick.page/dev/rdp/max/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
 
-        Invoke-WebRequest https://raw.githubusercontent.com/NIndo123/GoogleCloud-RDP/main/start.bat -OutFile start.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/NIndo123/Shekher-RDP/main/start.bat -OutFile start.bat
 
         Invoke-WebRequest https://raw.githubusercontent.com/VandalasV/6hRDP-2/main/wallpaper.png -OutFile wallpaper.bmp
 
