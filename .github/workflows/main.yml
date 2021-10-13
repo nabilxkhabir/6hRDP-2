@@ -30,11 +30,11 @@ jobs:
 
         Invoke-WebRequest https://raw.githubusercontent.com/NIndo123/GoogleCloud-RDP/main/start.bat -OutFile start.bat
 
-        Invoke-WebRequest https://raw.githubusercontent.com/VandalasV/6hRDP/main/wallpaper.png -OutFile wallpaper.bmp
+        Invoke-WebRequest https://raw.githubusercontent.com/VandalasV/6hRDP-2/main/wallpaper.png -OutFile wallpaper.bmp
 
-        Invoke-WebRequest https://raw.githubusercontent.com/VandalasV/6hRDP/main/wallpaper.bat -OutFile wallpaper.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/VandalasV/6hRDP-2/main/wallpaper.bat -OutFile wallpaper.bat
 
-        Invoke-WebRequest https://raw.githubusercontent.com/VandalasV/6hRDP/main/loop.ps1 -OutFile loop.ps1
+        Invoke-WebRequest https://raw.githubusercontent.com/VandalasV/6hRDP-2/main/loop.ps1 -OutFile loop.ps1
 
     - name: Working on launcher.
 
